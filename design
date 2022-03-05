@@ -9,3 +9,31 @@
 *    Updated: $UPDATEDAT_________ by $UPDATEDBY_                               *
 *                                                                              
 ********************************************************************************
+
+Get header template from languageId
+// Replace all delimiters with ones for current language
+Fit value to correct field width, padded with spaces
+Stringify Date to correct format for header
+Get Date object from date string formatted for header
+Check if language is supported
+Returns current header as string if present at top of document
+Regex to match field in template
+Returns [ global match, offset, field ]
+Get value by field name in header string
+Set field value in header string
+Extract header info from header string
+Update header info with current time and last author
+Renders a language template with header info
+
+
+
+
+
+
+
+
+
+
+
+
+
